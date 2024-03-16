@@ -27,6 +27,7 @@
     "dependencies":
     {
       "jandrassy/ArduinoOTA":"^1.1.0",
+      "rlogiacco/CircularBuffer":"^1.4.0",
       "robtillaart/CRC":"^1.0.2"
     },
     "headers": ["ArduinoBleOTA.h", "BleOtaMultiservice.h"],
